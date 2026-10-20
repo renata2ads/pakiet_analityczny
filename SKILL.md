@@ -117,4 +117,8 @@ Obejrzyj każdy slajd w `wyniki/podglad/pptx-NN.png`. Jeśli coś się ucina, na
 
 ## Na koniec
 
-Pokaż użytkownikowi krótkie podsumowanie: rok raportu, liczba wpisów ledgera (fakty / dane rynkowe / założenia / grafiki), wynik weryfikacji, wycena wobec kursu, lista plików w `TICKER/wyniki/` oraz wszystko, czego nie udało się znaleźć w źródłach. Dopisz, że to materiał edukacyjny, a nie rekomendacja inwestycyjna.
+Pokaż użytkownikowi krótkie podsumowanie: rok raportu, liczba wpisów ledgera (fakty / dane rynkowe / założenia / grafiki), wynik weryfikacji, wycena wobec kursu, lista plików w `TICKER/wyniki/` oraz wszystko, czego nie udało się znaleźć w źródłach. Dopisz, że to materiał edukacyjny, a nie rekomendacja inwestycyjna. Podaj też datę wykonania analizy (dzisiejszą datę w formacie RRRR-MM-DD).
+
+## Historia wersji
+
+- 1.1: podsumowanie na końcu pracy podaje datę wykonania analizy
