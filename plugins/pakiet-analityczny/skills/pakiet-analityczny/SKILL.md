@@ -117,9 +117,10 @@ Obejrzyj każdy slajd w `wyniki/podglad/pptx-NN.png`. Jeśli coś się ucina, na
 
 ## Na koniec
 
-Pokaż użytkownikowi krótkie podsumowanie: rok raportu, liczba wpisów ledgera (fakty / dane rynkowe / założenia / grafiki), wynik weryfikacji, wycena wobec kursu, lista plików w `TICKER/wyniki/` oraz wszystko, czego nie udało się znaleźć w źródłach. Dopisz, że to materiał edukacyjny, a nie rekomendacja inwestycyjna. Podaj też datę wykonania analizy (dzisiejszą datę w formacie RRRR-MM-DD).
+Pokaż użytkownikowi krótkie podsumowanie: rok raportu, liczba wpisów ledgera (fakty / dane rynkowe / założenia / grafiki), wynik weryfikacji, wycena wobec kursu, lista plików w `TICKER/wyniki/` oraz wszystko, czego nie udało się znaleźć w źródłach. Dopisz, że to materiał edukacyjny, a nie rekomendacja inwestycyjna. Podaj też datę wykonania analizy (dzisiejszą datę w formacie RRRR-MM-DD). Podaj też wersję skilla (najnowszy numer z sekcji "Historia wersji").
 
 ## Historia wersji
 
 - 1.1: podsumowanie na końcu pracy podaje datę wykonania analizy
 - 1.2: skill jako plugin w marketplace moje-skille
+- 1.3: wersja skilla w podsumowaniu
