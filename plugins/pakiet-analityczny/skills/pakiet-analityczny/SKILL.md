@@ -15,7 +15,7 @@ Teksty dla ludzi pisz po polsku z polskimi znakami, bez długich myślników (za
 
 ## Skrypty
 
-Wszystkie skrypty są w `scripts/` obok tego pliku (dalej: `S` = pełna ścieżka do folderu `scripts` obok tego pliku SKILL.md, np. `~/.claude/skills/pakiet-analityczny/scripts` dla skilla globalnego - zawsze podawaj ścieżkę bezwzględną). Uruchamiaj je **z folderu, w którym użytkownik pracuje** (nie wchodź do folderu skilla) - wyniki trafiają do `TICKER/` w bieżącym folderze:
+Wszystkie skrypty są w `scripts/` obok tego pliku (dalej: `S` = pełna ścieżka do folderu `scripts` obok tego pliku SKILL.md, po instalacji pluginu `${CLAUDE_PLUGIN_ROOT}/skills/pakiet-analityczny/scripts` - zawsze podawaj ścieżkę bezwzględną). Uruchamiaj je **z folderu, w którym użytkownik pracuje** (nie wchodź do folderu skilla) - wyniki trafiają do `TICKER/` w bieżącym folderze:
 
 ```
 python "S/nazwa.py" TICKER
@@ -122,3 +122,4 @@ Pokaż użytkownikowi krótkie podsumowanie: rok raportu, liczba wpisów ledgera
 ## Historia wersji
 
 - 1.1: podsumowanie na końcu pracy podaje datę wykonania analizy
+- 1.2: skill jako plugin w marketplace moje-skille

@@ -1,0 +1,8 @@
+{
+  "name": "pakiet-analityczny",
+  "description": "Pakiet analityczny spółki z USA na podstawie raportu 10-K: ledger faktów z cytatami, weryfikacja, model DCF w Excelu, prezentacja i notatka dla zarządu.",
+  "version": "1.2.0",
+  "author": {
+    "name": "Renata"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "moje-skille",
+  "owner": {
+    "name": "Renata"
+  },
+  "metadata": {
+    "description": "Moje skille do Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "pakiet-analityczny",
+      "source": "./plugins/pakiet-analityczny",
+      "description": "Pakiet analityczny spółki z USA na podstawie raportu 10-K: ledger faktów z cytatami, weryfikacja, model DCF w Excelu, prezentacja i notatka dla zarządu."
+    }
+  ]
+}
